@@ -50,8 +50,6 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
 | Compliance and Regulatory Testing  | Ensuring compliance with regulations and standards.                                             |
 | Installation and Update Testing    | Testing installation and update processes.                                                      |
 
-
-
 ## ALL PROJECT WHILE WORKING IN CIPTA
 
 All my projects can be seen as follows.
@@ -65,6 +63,34 @@ All my projects can be seen as follows.
 
 Example handset Android for testing
 ![image](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/cfdc176e-0bc7-4b16-be7e-5280922160f2)
+
+
+## Structure Folder Project 
+
+```
+Project X
+├── Documentation
+│   ├── Specification.docx >> Pure From Customer
+│   ├── ATR.docx (Alpha Test Results)
+│   ├── PKO.docx (Project Kick Off)
+│   ├── PTP.docx (Project Test Plan)
+│   └── etc
+├── Generation
+│   ├── PSF, XML, SPS File on .zip
+│   └── Readme.txt
+├── Testing
+│   ├── Alpha Test Report.zip
+│   │   └── GSM_1117, GSM_Additional_Test, COMP128, ConformanceSIM, ConformanceUSIM, OTA, Millenage Authentication, OTA Specific Customer, Profile, Authentication.txt
+│   ├── Alpha Test Scripts
+│   │    └── GSM_1117, GSM_Additional_Test, COMP128, ConformanceSIM, ConformanceUSIM, OTA, Millenage Authentication, OTA Specific Customer, Profile, Authentication.cpp
+│   └── Beta TestR eport.docx
+└── Tools
+    └── Persogen.dll
+```
+
+
+    
+
 
 
 
