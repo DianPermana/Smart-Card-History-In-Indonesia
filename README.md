@@ -52,7 +52,7 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
 
 ## ALL PROJECT WHILE WORKING IN CIPTA
 
-All my projects can be seen as follows : 
+All my projects can be seen as follows (+/- 59 Project : Done): 
 
 ![Screenshot 2024-05-10 200657](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/ca169390-f4fc-44db-b172-7da42d0ae8fb)
 
@@ -65,6 +65,7 @@ Example handset Android for Beta QC :
 
 ![image](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/cfdc176e-0bc7-4b16-be7e-5280922160f2)
 
+Including : Android (1 : Froyo- 7 : Lollipop), IOS (Iphone 4 - 6 plus), Windows Phone, Blackberry, AndroidTab, Non-Android (Nokia, Erricsson, Mito, LG, ZTE, Esia, Nexian, Motorolla, etc)
 
 ## Structure Folder Project 
 
@@ -100,6 +101,11 @@ Project X
 
 ```
 
+
+## Research \& Development
+- Read SMS on SIMCard using C#
+- Call phone via AT-Command SIM900 to test Call Number
+- etc
 
     
 
