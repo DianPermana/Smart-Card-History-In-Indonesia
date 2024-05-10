@@ -5,8 +5,8 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
 
 ## Career History
 
-### Smart Card Engineer (R & D Team Department) (October 2016 - December 2018)
- #### Beta QC Engineer (Month Year - Month Year)
+### Smart Card Engineer (R & D Team Department)
+ #### Beta QC Engineer (OCT 2016 - Feb 2017)
   - Conducted direct online testing using handset to validate smart card functionality and performance.
   - Verified the implementation of smart card technology at the final stage to ensure compliance with project goals and industry standards.
   - Developed and executed test plans, test cases, and test scripts for smart card functionality, security, and performance.
@@ -15,7 +15,7 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
   - Conducted regression testing to ensure that new features and enhancements did not adversely affect existing functionality.
   - Documented and reported defects using a defect tracking system, and verified fixes in new builds.
 
- #### Alpha QC Engineer (Month Year - Month Year)
+ #### Alpha QC Engineer (Feb 2017 - DEC 2018)
   - Conducted offline testing of smart card products using test scripts to ensure functionality and reliability.
   - Collaborated with the development team to identify and resolve issues in smart card products.
   - Utilized automated testing tools and scripts to streamline the testing process.
@@ -52,7 +52,7 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
 
 ## ALL PROJECT WHILE WORKING IN CIPTA
 
-All my projects can be seen as follows.
+All my projects can be seen as follows : 
 
 ![Screenshot 2024-05-10 200657](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/ca169390-f4fc-44db-b172-7da42d0ae8fb)
 
@@ -61,13 +61,17 @@ All my projects can be seen as follows.
 
 ## Heandset specification
 
-Example handset Android for testing
+Example handset Android for Beta QC :
+
 ![image](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/cfdc176e-0bc7-4b16-be7e-5280922160f2)
 
 
 ## Structure Folder Project 
 
+Here's example Structure Folder each project : 
+
 ```
+
 Project X
 ├── Documentation
 │   ├── Specification.docx >> Pure From Customer
@@ -75,17 +79,25 @@ Project X
 │   ├── PKO.docx (Project Kick Off)
 │   ├── PTP.docx (Project Test Plan)
 │   └── etc
+|
 ├── Generation
 │   ├── PSF, XML, SPS File on .zip
 │   └── Readme.txt
+|
 ├── Testing
 │   ├── Alpha Test Report.zip
-│   │   └── GSM_1117, GSM_Additional_Test, COMP128, ConformanceSIM, ConformanceUSIM, OTA, Millenage Authentication, OTA Specific Customer, Profile, Authentication.txt
+│   │   └── GSM_1117, GSM_Additional_Test, COMP128, ConformanceSIM, ConformanceUSIM, OTA, Millenage Authentication, OTA Specific Customer, Profile, Authentication, PERSO File, SimServiceTable, SpecificationCustomer, etc.txt
+|   │       └── ConformanceSIM : Read Binary, Read Record, ChangePIN, Activate, Deactivate, Enable, Disable, Increase, etc
+|   │         └── etc.
 │   ├── Alpha Test Scripts
-│   │    └── GSM_1117, GSM_Additional_Test, COMP128, ConformanceSIM, ConformanceUSIM, OTA, Millenage Authentication, OTA Specific Customer, Profile, Authentication.cpp
+│   │    └── GSM_1117, GSM_Additional_Test, COMP128, ConformanceSIM, ConformanceUSIM, OTA, Millenage Authentication, OTA Specific Customer, Profile, Authentication, PERSO File, SimServiceTable, SpecificationCustomer, etc.cpp
+│   │      └── ConformanceSIM : Read Binary, Read Record, ChangePIN, Activate, Deactivate, Enable, Disable, Increase, etc
+|   │        └── etc.
 │   └── Beta TestR eport.docx
+|
 └── Tools
     └── Persogen.dll
+
 ```
 
 
