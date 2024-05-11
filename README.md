@@ -52,7 +52,7 @@ The key difference is that as a Beta QC Engineer, you conducted direct online te
 
 ## ALL PROJECT WHILE WORKING IN CIPTA
 
-All my projects can be seen as follows (+/- 59 Project : Done): 
+All the projects not only on a national but also on an international, detail can be seen as follows (+/- 59 Project): 
 
 ![Screenshot 2024-05-10 200657](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/ca169390-f4fc-44db-b172-7da42d0ae8fb)
 
