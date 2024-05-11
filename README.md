@@ -147,13 +147,16 @@ I try to Mapping All progress that I learn : https://github.com/DianPermana/Smar
 ## Research \& Development
 - Read SMS on SIMCard using C# : https://www.youtube.com/watch?v=6ro63PwuyWk
 - Calling other Number via AT-Command using SIM-900
-- Now in 2024 I have integrated Reporting with allure report for smart Card testing using python, detail can be check here : https://www.youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_
+- Now in 2024 I have integrated Reporting with allure report for smart Card testing using python, detail can be check here : [https://www.youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_](https://youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_&si=7NUI6jlOeUGQtckR)
 
 ## Learn From CIPTA
 - Learning by doing, Learning from sharing, Make it simple, Making history
 - Testing is the comparison of results VS expectations.
 - Flow proccess SmartCard Development Life Cycle should be clear based on Organization, yes Agility is important but without clear flow everyhing will crash
 - The flow of process testing in the SmartCard Development Life Cycle should be conducted starting from how data is stored in memory, particularly in smart cards where data is in Transparent, Linear Fixed, and Cycle formats. This is one of the fundamental aspects of how data is stored. In different systems like databases, there are agents or protocols that connect the application level with the database, hence testing is necessary.
+- This tools is awesome, I will help you to contact mas seno if your company need it (just ping me) 
+ ![image](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/b2e0231f-cd2d-456c-a031-a5f00845d3ab)
+
     
 ## Thank You
 Hopefully the knowledge gained will be useful and contribute to building Indonesia's golden generation in 2045.
