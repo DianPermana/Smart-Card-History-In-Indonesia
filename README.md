@@ -16,7 +16,7 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
  #### Alpha QC Engineer (Feb 2017 - DEC 2018)
   - Conducted offline testing of smart card products using test scripts to ensure functionality and reliability.
   - Develop test plans and test cases for smart card testing based on industry standards, such as ISO/IEC 7816, 3GPP, ETSI.
-  - Conducted security and performance testing of smart cards, including but not limited : load test, stress test, cryptography algorithms such as DES, AES and RSA.
+  - Conducted security and performance testing of smart cards, including but not limited : Performance test, cryptography algorithms such as DES, AES and RSA.
   - Execute test cases using automated and manual testing techniques, including scripting and test automation tools.
   - Analyze test results and report defects to the development team for resolution.
   - Collaborate with cross-functional teams, including smart card developers, project managers, Business Analys to ensure the quality and reliability of the smart card products.
