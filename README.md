@@ -8,10 +8,10 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
 ### Smart Card Engineer (R & D Team Department)
 
  #### Alpha QC Engineer (Feb 2017 - DEC 2018)
-  - Conducted offline testing of smart card products using automated techniques, such as scripting and test automation tools, following standards like ISO/IEC 7816, 3GPP, and ETSI. Also performed security and performance tests, including stress tests and cryptographic algorithms (DES, AES, RSA)
+  - Conducted offline testing of smart card products using automated techniques, such as scripting and test automation tools, following standards like ISO/IEC 7816, 3GPP, and ETSI
     
  #### Beta QC Engineer (OCT 2016 - Feb 2017)
-  - Performing direct online testing using headsets to validate functionality and performance at final implementation levels
+  - Conducted direct online testing using headsets to validate functionality and performance at final implementation levels
 
  #### Tech stack Development
  - Hardware : Smart Card (Native, Java Card), Card Reader Omnikey Card Man, SIM 900, Handset/Smart Phone
