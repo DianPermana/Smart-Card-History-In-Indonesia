@@ -9,7 +9,6 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
  #### Beta QC Engineer (OCT 2016 - Feb 2017)
   - Conducted direct online testing using handset to validate smart card functionality and performance.
   - Verified the implementation of smart card technology at the final stage to ensure compliance with project goals and industry standards.
-  - Developed and executed test plans, test cases, and test scripts for smart card functionality, security, and performance.
   - Conducted regression testing to ensure that new features and enhancements did not adversely affect existing functionality.
   - Documented and reported defects using a report.docx.
 
@@ -17,7 +16,7 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
   - Conducted offline testing of smart card products using test scripts to ensure functionality and reliability.
   - Develop test plans and test cases for smart card testing based on industry standards, such as ISO/IEC 7816, 3GPP, ETSI.
   - Conducted security and performance testing of smart cards, including but not limited : Stress test, cryptography algorithms such as DES, AES and RSA.
-  - Execute test cases using automated and manual testing techniques, including scripting and test automation tools.
+  - Execute test cases using automated testing techniques, including scripting and test automation tools.
   - Analyze test results and report defects to the development team for resolution.
   - Collaborate with cross-functional teams, including smart card developers, project managers, Business Analys to ensure the quality and reliability of the smart card products.
   - Tech stack : Smart Card (Native, Java Card), SIM 900, Card Reader, languange : C++, C#, Java
@@ -36,7 +35,6 @@ The key difference is that as a Beta QC Engineer, you conducted direct online te
 | OTA                                | Testing software updates delivered over the air.                                                |
 | Stress Test                        | Testing the software under extreme conditions to evaluate stability.                            |
 | Regression Testing                 | Verifying that recent code changes have not adversely affected existing features.               |
-| Performance Testing                | Evaluating the performance and responsiveness of the software under various conditions.         |
 
 ## Beta Testing
 
@@ -73,14 +71,23 @@ Here's example Structure Folder each project :
 
 ```
 Project X
-├── Documentation
+├── Documentation (project manager, smart card Developer, smart card dev reviewer, Alpha QC, Alpha QC Reviewer, Beta QC, Beta QC Review)
 │   ├── Specification.docx >> Pure From Customer
-│   ├── PTP.docx (Project Test Plan)
-│   ├── FRS.docx (Functional Requirment Specification)
-│   ├── ATD.docx (Alpha Test Description)
-│   ├── ATR.docx (Alpha Test Results)
-│   ├── PKO.docx (Project Kick Off)
-│   ├── TD.docx (Test Deviation)
+│   ├── Software Architecture Description      (SAD) : Architecture in General
+│   ├── Software Requirement Specification     (SRS) : All Requirement tools in General as a team
+│   ├── Project Kick Off                       (PKO) : Participant Review, Document Review
+│   ├── Project Requirement Review             (PRR) : Deliver Document
+│   ├── Functional Requirment Specification    (FRS) : Project Informations based on Functional
+│   ├── Technical Answer and Planning          (TAP) : All Blocker in Technical Level
+│   ├── Product Generation Description         (PGD) : All requirment based on Development work
+│   ├── Project Test Plan                      (PTP) : Testing Information (Hardware, software, Tools, Type Of testing including alpha & Beta)
+│   ├── Alpha Test Description                 (ATD) : Tools Information needed (Hardware, Software, Tools, Requirement software feature, Profile, Reference Project before)
+│   ├── Beta Test Description                  (BTD) : Tools Information needed (Hardware, Software, Tools, Requirement software feature, Profile, Reference Project before)
+│   ├── Alpha Test Results                     (ATR) : Testing Information Results (refers to Alpha Testing/Test Report >> ConformanceSIM, Profile etc)
+│   ├── Beta Test Results                      (BTR) : Testing Information Results (Setup Call, Internet Access, Messaging, SIM Message, SPN, STK Menu)
+│   ├── Test Deviation                          (TD) : Alpha & Beta Test Deviation (Not bug, but something should be clarify and statement)
+│   ├── Project Closed Review                  (PCR) : Delivery Document
+│   ├── Change Request                          (CR) : Change request while project running
 │   └── etc
 |
 ├── Development or Generation
