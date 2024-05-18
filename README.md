@@ -13,13 +13,11 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
   - Documented and reported defects using a report.docx.
 
  #### Alpha QC Engineer (Feb 2017 - DEC 2018)
-  - Conducted offline testing of smart card products using test scripts to ensure functionality and reliability.
-  - Develop test plans and test cases for smart card testing based on industry standards, such as ISO/IEC 7816, 3GPP, ETSI.
-  - Conducted security and performance testing of smart cards, including but not limited : Stress test, cryptography algorithms such as DES, AES and RSA.
-  - Execute test cases using automated testing techniques, including scripting and test automation tools.
+  - Conducted offline testing of smart card products using automated testing techniques, including scripting and test automation tools.
+  - Develop test plans and test cases based on industry standards like ISO/IEC 7816, 3GPP, and ETSI
+  - Performed security and performance testing, including stress tests and cryptographic algorithms (DES, AES, RSA)
   - Analyze test results and report defects to the development team for resolution.
-  - Collaborate with cross-functional teams, including smart card developers, project managers, Business Analys to ensure the quality and reliability of the smart card products.
-  - Tech stack : Smart Card (Native, Java Card), SIM 900, Card Reader, languange : C++, C#, Java
+  - Tech stack : Smart Card (Native, Java Card), SIM 900, Card Reader Omnikey Card Man, languange : C++, C#, Java, Tools (Telco Tools, sopi tools etc)
 
 The key difference is that as a Beta QC Engineer, you conducted direct online testing using handsets, while as an Alpha QC Engineer, you focused on offline testing using scripts.
 
