@@ -6,20 +6,18 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
 ## Career History
 
 ### Smart Card Engineer (R & D Team Department)
- #### Beta QC Engineer (OCT 2016 - Feb 2017)
-  - Conducted direct online testing using handset to validate smart card functionality and performance.
-  - Verified the implementation of smart card technology at the final stage to ensure compliance with project goals and industry standards.
-  - Conducted regression testing to ensure that new features and enhancements did not adversely affect existing functionality.
-  - Documented and reported defects using a report.docx.
 
  #### Alpha QC Engineer (Feb 2017 - DEC 2018)
-  - Conducted offline testing of smart card products using automated testing techniques, including scripting and test automation tools.
-  - Develop test plans and test cases based on industry standards like ISO/IEC 7816, 3GPP, and ETSI
-  - Performed security and performance testing, including stress tests and cryptographic algorithms (DES, AES, RSA)
-  - Analyze test results and report defects to the development team for resolution.
-  - Tech stack : Smart Card (Native, Java Card), SIM 900, Card Reader Omnikey Card Man, languange : C++, C#, Java, Tools (Telco Tools, sopi tools etc)
+  - Conducted offline testing of smart card products using automated techniques, such as scripting and test automation tools, following standards like ISO/IEC 7816, 3GPP, and ETSI. Also performed security and performance tests, including stress tests and cryptographic algorithms (DES, AES, RSA)
+    
+ #### Beta QC Engineer (OCT 2016 - Feb 2017)
+  - Performing direct online testing using headsets to validate functionality and performance at final implementation levels
 
-The key difference is that as a Beta QC Engineer, you conducted direct online testing using handsets, while as an Alpha QC Engineer, you focused on offline testing using scripts.
+### Tech stack Development
+
+- Hardware : Smart Card (Native, Java Card), Card Reader Omnikey Card Man, SIM 900, 
+- Software : Tools (Telco Tools, sopi tools etc)
+- Languange : C++, C#, Java
 
 ## Alpha Testing
 
@@ -46,8 +44,7 @@ The key difference is that as a Beta QC Engineer, you conducted direct online te
 | Compliance and Regulatory Testing  | Ensuring compliance with regulations and standards.                                             |
 | Installation and Update Testing    | Testing installation and update processes.                                                      |
 
-## ALL PROJECT WHILE WORKING IN CIPTA
-
+## ALL PROJECT
 All the projects not only on a national but also on an international, detail can be seen as follows (+/- 59 Project): 
 
 ![Screenshot 2024-05-10 200657](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/ca169390-f4fc-44db-b172-7da42d0ae8fb)
