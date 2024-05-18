@@ -13,7 +13,9 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
  #### Beta QC Engineer (OCT 2016 - Feb 2017)
   - Conducted direct online testing using headsets to validate functionality and performance at final implementation levels
 
- #### Tech stack Development
+The Flow is Alpha Testing and then Beta testing
+
+### Tech stack Development
  - Hardware : Smart Card (Native, Java Card), Card Reader Omnikey Card Man, SIM 900, Handset/Smart Phone
  - Software : Tools (Telco Tools, sopi tools etc)
  - Languange : C++, C#, Java
