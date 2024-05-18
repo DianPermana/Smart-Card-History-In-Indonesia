@@ -157,7 +157,7 @@ I try to Mapping All progress that I learn : https://github.com/DianPermana/Smar
 - Now in 2024 I have integrated Reporting with allure report for smart Card testing using python, detail can be check here : [https://www.youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_](https://youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_&si=7NUI6jlOeUGQtckR)
 
 ## Learn From CIPTA
-- Learning by doing, Learning from sharing, Make it simple, Making history
+- Make it simple, Learning by doing, Learning from sharing
 - Testing is the comparison of results VS expectations.
 - Flow proccess SmartCard Development Life Cycle should be clear based on Organization, yes Agility is important but without clear flow everyhing will crash
 - The flow of process testing in the SmartCard Development Life Cycle should be conducted starting from how data is stored in memory, particularly in smart cards where data is in Transparent, Linear Fixed, and Cycle formats. This is one of the fundamental aspects of how data is stored. In different systems like databases, there are agents or protocols that connect the application level with the database, hence testing is necessary.
