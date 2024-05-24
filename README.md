@@ -148,7 +148,12 @@ ISO/IEC-7816 consists of the following parts, under the general title Identifica
 I try to Mapping All progress that I learn : https://github.com/DianPermana/Smart-Card-History-In-Indonesia/blob/main/3GPP%20TS%2011.11%20V8.14.0%20(2007-06)%20Dian%20Permana.xlsx
 
 ## Research \& Development
-- Read SMS on SIMCard using C# : https://www.youtube.com/watch?v=6ro63PwuyWk
+- Read SMS on SIMCard using C# : still working in windows 11
+  
+| Read SMS                           | Read Phonebook                                                                                  |
+|------------------------------------|-------------------------------------------------------------------------------------------------|
+| ![image](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/9181a6ac-18e9-4c9c-a19c-eb95f4a8cc27) | ![image](https://github.com/DianPermana/Smart-Card-History-In-Indonesia/assets/18004033/4aa23c06-4edf-4f23-8f23-413aada4fd7a)
+                                            
 - Calling other Number via AT-Command using SIM-900
 - Now in 2024 I have integrated Reporting with allure report for smart Card testing using python, detail can be check here : [https://www.youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_](https://youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_&si=7NUI6jlOeUGQtckR)
 
