@@ -11,7 +11,7 @@ PT Cipta Srigati Lestari (CIPTA) has over ten years of experiences as the Strong
   - Conducted offline testing of smart card products using automated techniques, such as scripting and test automation tools, following standards like ISO/IEC 7816, 3GPP, and ETSI
     
  #### Beta QC Engineer (OCT 2016 - Feb 2017)
-  - Conducted direct online testing using headsets to validate functionality and performance at final implementation levels
+  - Conducted direct online testing using handset to validate functionality and performance at final implementation levels
 
 The Flow is Alpha Testing and then Beta testing
 
